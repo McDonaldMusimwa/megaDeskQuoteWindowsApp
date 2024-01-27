@@ -1,0 +1,135 @@
+Customer: 
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 900
+Surface Material Cost: 200
+Drawer Cost: 100
+Rush Days: 60
+Quote total: 1460
+--------------------
+Customer: 
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 900
+Surface Material Cost: 200
+Drawer Cost: 100
+Rush Days: 60
+Quote total: 1460
+--------------------
+Customer: 
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 200
+Drawer Cost: 100
+Rush Days: 40
+Quote total: 1320
+--------------------
+Customer: 
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 200
+Drawer Cost: 100
+Rush Days: 40
+Quote total: 1320
+--------------------
+Customer: 
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 200
+Drawer Cost: 100
+Rush Days: 40
+Quote total: 1320
+--------------------
+Customer: 
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 100
+Drawer Cost: 100
+Rush Days: 60
+Quote total: 1240
+--------------------
+Customer: 
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 100
+Drawer Cost: 100
+Rush Days: 60
+Quote total: 1240
+--------------------
+Customer: Mcd
+Quote Date: 27 January 2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 200
+Drawer Cost: 100
+Rush Days: 60
+Quote total: 1340
+--------------------
+Customer: Noku
+Quote Date: 27 January 2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 300
+Drawer Cost: 100
+Rush Days: 30
+Quote total: 1410
+--------------------
+Customer: Noku
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 300
+Drawer Cost: 100
+Rush Days: 30
+Quote total: 1410
+--------------------
+Customer: Noku
+Quote Date: 01/27/2024
+Base Price: 200
+Surface Area Cost: 780
+Surface Material Cost: 300
+Drawer Cost: 100
+Rush Days: 30
+Quote total: 1410
+--------------------
+Customer: mum
+Quote Date: 27 January 2024
+Base Price: 200
+Surface Area Cost: 0
+Surface Material Cost: 100
+Drawer Cost: 100
+Rush Days: 60
+Quote total: 460
+--------------------
+Customer: Daniel
+Quote Date: 27 January 2024
+Base Price: 200
+Surface Area Cost: 0
+Surface Material Cost: 100
+Drawer Cost: 100
+Rush Days: 60
+Quote total: 460
+--------------------
+Customer: Daniel
+Quote Date: 27 January 2024
+Base Price: 200
+Surface Area Cost: 650
+Surface Material Cost: 100
+Drawer Cost: 100
+Rush Days: 60
+Quote total: 1110
+--------------------
+Customer: Dan
+Quote Date: 27 January 2024
+Base Price: 200
+Surface Area Cost: 500
+Surface Material Cost: 100
+Drawer Cost: 100
+Rush Days: 40
+Quote total: 940
+--------------------

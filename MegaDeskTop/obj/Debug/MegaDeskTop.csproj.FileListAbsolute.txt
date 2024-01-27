@@ -1,0 +1,12 @@
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\bin\Debug\MegaDeskTop.exe.config
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\bin\Debug\MegaDeskTop.exe
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\bin\Debug\MegaDeskTop.pdb
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.csproj.AssemblyReference.cache
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.csproj.SuggestedBindingRedirects.cache
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.AddQuote.resources
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.MainMenu.resources
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.Properties.Resources.resources
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.csproj.GenerateResource.cache
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.csproj.CoreCompileInputs.cache
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.exe
+C:\projects\dotnetlessons\MegaDeskTop\MegaDeskTop\obj\Debug\MegaDeskTop.pdb
